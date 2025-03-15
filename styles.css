@@ -1,0 +1,35 @@
+body{
+    background-image:url('https://i.pinimg.com/736x/dd/0e/e7/dd0ee7a557a16fd34dcb4cd940fe4344.jpg');
+    background-size: cover;
+    
+}
+
+h1{
+   text-align:center;
+   color:#002F41;
+}
+
+div{
+    background-color:white;
+    border:2px solid #002F41;
+    width: 500px;
+    font-size: 30px;
+    text-align: center;
+    float: center;
+}
+
+img{
+    border:2px solid #002F41;
+}
+
+.kawaii{
+    background-color:#FFEDF8;
+    border:2px solid #6B124B;
+    margin-left:185px;
+    margin-right:185px;
+}
+
+@font-face {
+    font-family: 'TikTokSansLight';
+    src: url('TikTokSans.ttf') format('ttf')
+}
